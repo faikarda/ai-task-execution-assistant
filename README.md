@@ -74,7 +74,7 @@ Environment Variables
 
 Create a .env file:
 
-OPENAI_API_KEY=your_api_key_here
+OPENAI_API_KEY=
 Example Requests
 Find me 3 coworking spaces in Warsaw under $20/day
 Book me a dentist appointment
@@ -82,3 +82,16 @@ Plan a 2-day trip to Prague under €300
 Notes
 
 This project uses mock services instead of real external APIs for simplicity and demonstration purposes.
+
+---
+
+## Demo Screenshots
+
+### Coworking Search Example
+
+![Coworking Demo](assets/coworking-demo.png)
+
+### Appointment Booking Example
+
+![Dentist Demo](assets/dentist-demo.png)
+![Dentist Demo](assets/dentist-demo2.png)
