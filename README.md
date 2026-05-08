@@ -85,6 +85,8 @@ This project uses mock services instead of real external APIs for simplicity and
 
 ---
 
+---
+
 ## Demo Screenshots
 
 ### Coworking Search Example
